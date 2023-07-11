@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mock-Blog-Raw-Project/static/css/main.b2e5eaf8.css",
+    "main.js": "/Mock-Blog-Raw-Project/static/js/main.e30b5f6f.js",
+    "index.html": "/Mock-Blog-Raw-Project/index.html",
+    "main.b2e5eaf8.css.map": "/Mock-Blog-Raw-Project/static/css/main.b2e5eaf8.css.map",
+    "main.e30b5f6f.js.map": "/Mock-Blog-Raw-Project/static/js/main.e30b5f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e5eaf8.css",
+    "static/js/main.e30b5f6f.js"
+  ]
+}
