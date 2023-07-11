@@ -1,9 +1,9 @@
-const Header = ({setPathName, handlePathChange}) => {
+const Header = ({setReqType}) => {
     const onClickEvent = (e) =>{
-        setPathName(e.target.id);
+        setReqType(e.target.id);
     }
     return (
-        <header>
+        <header className="header">
             <button 
                 tabIndex="0"
                 id="users"

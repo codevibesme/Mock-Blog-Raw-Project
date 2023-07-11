@@ -11,6 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  width: 100%;
+}
 .btns{
   width: 33.33%;
   height: 40px;
@@ -18,6 +22,8 @@ code {
   border: 1px solid;
   font-size: 1.2rem;
 }
+
+
 .btns:hover{
   background-color: #2f4f4f;
   color: aquamarine;
@@ -25,4 +31,10 @@ code {
 .btns:focus{
   background-color: black;
   color: whitesmoke;
+}
+.table{
+  position: relative;
+}
+.tableData{
+  border: 1px solid;
 }

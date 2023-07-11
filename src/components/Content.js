@@ -1,8 +1,9 @@
-import ItemList from "./ItemList";
-
+// import ItemList from "./ItemList";
+import Table from "./Table";
 const Content = ({items}) => {
     return (
-        <ItemList items = {items} />
+        // <ItemList items = {items} />
+        <Table items= {items} />
     )
 }
 export default Content;
